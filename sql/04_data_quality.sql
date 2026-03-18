@@ -1,7 +1,6 @@
 -- ============================================================
 -- ACQUERA YACHTING — DATA QUALITY CHECKS
--- Run these before any reporting cycle or after data ingestion
--- Mimics what a Data Platform Analyst actually does on day 1
+-- we usually Run these before any reporting cycle or after data ingestion
 -- ============================================================
 
 
